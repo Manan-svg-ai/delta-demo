@@ -1,2 +1,2 @@
 # delta-demo
-This is a demo for git &amp; dgithub class
+This is a demo for git &amp; github class , we will learn everything about git an dgithub .
